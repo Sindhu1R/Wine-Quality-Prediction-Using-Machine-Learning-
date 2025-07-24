@@ -7,7 +7,7 @@ A machine learning project that predicts the quality of wine (Good, Average, or 
 
 ---
 
-1) What This Project Does
+## 1) What This Project Does
 - Classifies wine quality into **Good**, **Average**, or **Bad**
 - Uses **ensemble models** (Random Forest + Gradient Boosting) for high accuracy
 - Implements **SMOTE** to handle class imbalance
