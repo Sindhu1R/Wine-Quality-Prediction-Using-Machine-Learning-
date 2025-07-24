@@ -5,7 +5,7 @@ This project predicts the quality of wine (Good, Average, or Bad) based on its p
 
 A machine learning project that predicts the quality of wine (Good, Average, or Bad) based on its physicochemical properties. This project showcases end-to-end implementation — from data preprocessing and feature selection to model tuning and final prediction — with an interactive input system for real-time testing.
 
-
+---
 
 1) What This Project Does
 - Classifies wine quality into **Good**, **Average**, or **Bad**
@@ -16,7 +16,7 @@ A machine learning project that predicts the quality of wine (Good, Average, or 
 - Accepts **custom user input** through the terminal for live predictions
 - Provides **class-wise prediction probabilities** and friendly feedback
 
-
+---
 
 2) Techniques & Tools Used
 - Python, Pandas, NumPy
@@ -28,7 +28,7 @@ A machine learning project that predicts the quality of wine (Good, Average, or 
 - Jupyter Notebook for development and testing
 - Matplotlib & Seaborn for visualizations
 
-
+---
 
 3) Key Highlights
 - Achieved over **99% accuracy** on test data using ensemble learning
@@ -36,7 +36,7 @@ A machine learning project that predicts the quality of wine (Good, Average, or 
 - Visualized class distribution before and after SMOTE
 - Saved models for future reuse with `joblib`
 
-
+---
 
 4) How to Use
 1. Clone this repository
@@ -44,6 +44,26 @@ A machine learning project that predicts the quality of wine (Good, Average, or 
 3. Enter custom wine feature values when prompted
 4. View predicted wine quality and probability breakdown
 
-
+---
 
 5) Sample Input Features
+
+Only essential features are taken via input — the rest are set to zero for simplicity.
+
+---
+
+6) Status
+Academic Project (Sept–Dec 2024)  
+Developed as part of Mini Project requirement
+
+---
+
+7) Author
+**Sindhu R**  
+📧 sindhu.ramapriya@gmail.com  
+
+
+---
+
+⭐ If you find this project helpful, feel free to give it a ⭐!
+
