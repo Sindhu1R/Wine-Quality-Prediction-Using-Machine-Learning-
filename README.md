@@ -47,14 +47,13 @@ A machine learning project that predicts the quality of wine (Good, Average, or 
 ---
 
 5) Sample Input Features
-
-   Only essential features are taken via input — the rest are set to zero for simplicity.
+Only essential features are taken via input — the rest are set to zero for simplicity.
 
 ---
 
 6) Status
-Academic Project (Sept–Dec 2024)  
-Developed as part of Mini Project requirement
+Academic Project (Sept 2024–Dec 2024)  
+Developed as part of Course Requirement
 
 ---
 
